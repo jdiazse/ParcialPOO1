@@ -1,5 +1,8 @@
 package menu.parcialpoo1;
 
+//Abstract: Parcial POO
+//Author: Jhon Diaz
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
