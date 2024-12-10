@@ -3,10 +3,9 @@ package menu.parcialpoo1;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- *
- * @author Estudiante
- */
+//Abstract: Parcial POO
+//Author: Jhon Diaz
+
 public class Servicio {
     private static Scanner scanner = new Scanner(System.in);
     public static void menuEntradas() {
