@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class Servicio {
     private static Scanner scanner = new Scanner(System.in);
-    public static void menuEntradas() {// Se crea el metodo para crear una cuenta y asignarle un saldo
+    public static void menuEntradas() {
         boolean exit = false;
         
         while (!exit){
