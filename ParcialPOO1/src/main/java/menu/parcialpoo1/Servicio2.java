@@ -1,16 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package menu.parcialpoo1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- *
- * @author Estudiante
- */
+//Abstract: Parcial POO
+//Author: Jhon Diaz
+
 public class Servicio2 {
         private static Scanner scanner = new Scanner(System.in);
     public static void menuPlatosprincipales() {
