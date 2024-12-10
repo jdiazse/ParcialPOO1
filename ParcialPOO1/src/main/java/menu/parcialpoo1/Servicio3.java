@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Servicio3 {
         private static Scanner scanner = new Scanner(System.in);
-    public static void menuBebidas() {// Se crea el metodo para crear una cuenta y asignarle un saldo
+    public static void menuBebidas() {
         boolean exit = false;
         
         while (!exit){
