@@ -1,4 +1,6 @@
 Se crearon 4 clases diferentes cada una con su funcion propia.
+![image](https://github.com/user-attachments/assets/6a40654f-19d8-4a4c-8242-d1eb9cbed885)
+
 ![image](https://github.com/user-attachments/assets/bcef7c76-73f5-42af-aa4d-f348b4dfb187)
 La clase Sistema es la que contiene la clase Main y debera ser ejecutada y muestra el menu principal del restaurante, la clase Servicio contiene el primer menú y asi sucesivamente con Servicio 2 conteniendo el segundo menú y Servicio 3 conteniendo el tercer menú.
 
